@@ -1,2 +1,1 @@
-# master_thesis_visualizations
-master_thesis_visualizations
+This repository provides the visualizations of the task-specific gradient embeddings and metrics created for my master's thesis.
